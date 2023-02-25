@@ -5,3 +5,5 @@ Link for Portfolio Assessment 1
 https://github.com/birukmamo/Biruk_Portfolio/tree/main/Homework_1
 Link for Portfolio Assessment 2
 https://github.com/birukmamo/Biruk_Portfolio/tree/main/HW2_BGM210001
+Link for Portfolio Assessment 3
+https://github.com/birukmamo/Biruk_Portfolio/blob/main/Portofolio_Chapter7_wordnet.ipynb%20-%20Colaboratory.pdf
