@@ -7,3 +7,5 @@ Link for Portfolio Assessment 2
 https://github.com/birukmamo/Biruk_Portfolio/tree/main/HW2_BGM210001
 Link for Portfolio Assessment 3
 https://github.com/birukmamo/Biruk_Portfolio/blob/main/Portofolio_Chapter7_wordnet.ipynb%20-%20Colaboratory.pdf
+Link for Portfolio Assessment 4
+https://github.com/birukmamo/Biruk_Portfolio/tree/main/BGM210001_N_Gram
