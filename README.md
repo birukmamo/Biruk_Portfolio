@@ -13,3 +13,4 @@ Link for Portfolio Assessment 5
 https://github.com/birukmamo/Biruk_Portfolio/blob/main/BGM210001_SentenceParsing.pdf
 Link for Portfolio Assessment 6
 https://github.com/birukmamo/Biruk_Portfolio/blob/main/web_crawler_Assignment6.py
+Link for Portfolio Assessment 7
