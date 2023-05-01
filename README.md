@@ -7,6 +7,12 @@ Natural Language Processing (NLP) is a branch of AI that studies how computers a
 Link for Portfolio Assessment 1 
 https://github.com/birukmamo/Biruk_Portfolio/tree/main/Homework_1
 
+This project is essentially a simple data validation and processing program that reads employee data from a file in CSV format, validates the data, and adds it to a unique list for future reference. The program requires the user to enter an employee ID and phone number in specific formats, which are checked for validity before being added to the list.
+
+Python is a popular language for text processing, as it has built-in libraries and tools for handling and manipulating text data. However, it may not be the fastest language for processing large amounts of text, which could be a potential weakness.
+
+In this project, the program serves as a review of basic programming concepts, such as file input/output, string manipulation, and data validation. Additionally, it highlights the importance of clear communication when explaining technical concepts, as the program's instructions and prompts need to be easily understood by a broad audience. Overall, this project is a practical example of how programming can be used to process and manage data efficiently.
+
 Link for Portfolio Assessment 2
 https://github.com/birukmamo/Biruk_Portfolio/tree/main/HW2_BGM210001
 
