@@ -43,7 +43,7 @@ Overall, N-grams and language models are key concepts in NLP, and are essential 
 Link for Portfolio Assessment 5
 https://github.com/birukmamo/Biruk_Portfolio/blob/main/BGM210001_SentenceParsing.pdf
 
-
+The PSG tree, dependency parsing, and SRL parsing are three different methods of analyzing the structure of a sentence. The PSG tree provides a list of parts of speech but does not analyze grammatical structure. Dependency parsing analyzes relationships between words but can be challenging. SRL parsing recognizes different actors and aspects of an action but does not provide information on the role of each word. Each method has its pros and cons and is useful for different applications.
 
 Link for Portfolio Assessment 6
 https://github.com/birukmamo/Biruk_Portfolio/blob/main/web_crawler_Assignment6.py
