@@ -48,11 +48,17 @@ The PSG tree, dependency parsing, and SRL parsing are three different methods of
 Link for Portfolio Assessment 6
 https://github.com/birukmamo/Biruk_Portfolio/blob/main/web_crawler_Assignment6.py
 
-Link for Portfolio Assessment 7
-Sentence Parsing
+This is a Python code for web scraping that extracts text from 15 URLs related to the Titanic and builds a knowledge base of 10 relevant terms. The script consists of several functions that perform different tasks, including crawling through the URLs, scraping text from the web pages, cleaning up the text, and finding the 10 most important terms.
 
-Link for Portfolio Assessment 8
-chatbot
+The first function, web_crawler(), takes a starting URL and crawls through the web pages, looking for links that contain the word "Titanic". It stops when it has found 15 relevant URLs and writes them to a file.
 
-Link for Portfolio Assessment 9
-ACL Paper Summary
+The second function, text_scrape(), takes the list of URLs found by web_crawler() and scrapes the text from each page. It removes any HTML tags and writes the cleaned text to a separate file for each page.
+
+The third function, cleanup_file(), reads in the cleaned text files and removes any extra whitespace. It then writes the cleaned text to a new file for each page.
+
+The fourth function, find_important_terms(), reads in the cleaned text files and tokenizes the text. It then removes any stop words and generates a list of the most common terms across all 15 pages. It prints out the top 40 most common terms and returns a list of the 10 most important terms.
+
+The fifth function, build_knowledge_base(), reads in the cleaned text files and tokenizes the text into sentences. It then searches each sentence for the 10 most important terms and adds the relevant sentences to a dictionary for each term. It saves the resulting dictionary as a pickle file, which can be loaded later to build the knowledge base.
+
+Overall, the script provides a basic example of how to perform web scraping and build a knowledge base from the scraped text. However, it has some limitations, such as relying on hardcoded terms and not accounting for variations in the text that may refer to the same concept.
+
