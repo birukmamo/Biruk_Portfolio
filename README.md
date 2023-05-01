@@ -21,6 +21,14 @@ I use a Python program that performs natural language processing and a guessing 
 Link for Portfolio Assessment 3
 https://github.com/birukmamo/Biruk_Portfolio/blob/main/Portofolio_Chapter7_wordnet.ipynb%20-%20Colaboratory.pdf
 
+It provides a comprehensive resource for natural language processing applications by organizing words into a hierarchy of semantic relationships, and by including detailed information about word usage in context.
+
+The core of WordNet is a set of synsets, or groups of words that are considered to be synonyms in certain contexts. Each synset is assigned a unique identifier and contains a list of words that are related in meaning. For example, the synset for "car" might include related words such as "automobile", "vehicle", and "motorcar".
+
+In addition to synsets, WordNet also includes detailed information about the relationships between words, such as hypernyms (words that are more general than a given word, e.g. "vehicle" is a hypernym of "car"), hyponyms (words that are more specific than a given word, e.g. "sedan" is a hyponym of "car"), and meronyms (parts that make up a whole, e.g. "wheel" is a meronym of "car").
+
+Overall, the WordNet project has had a significant impact on the field of natural language processing, providing researchers and developers with a powerful tool for analyzing and understanding the structure of language.
+
 Link for Portfolio Assessment 4
 https://github.com/birukmamo/Biruk_Portfolio/tree/main/BGM210001_N_Gram
 
