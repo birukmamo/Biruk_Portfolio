@@ -16,6 +16,8 @@ In this project, the program serves as a review of basic programming concepts, s
 Link for Portfolio Assessment 2
 https://github.com/birukmamo/Biruk_Portfolio/tree/main/HW2_BGM210001
 
+I use a Python program that performs natural language processing and a guessing game. Firstly, I preprocess an input file by tokenizing it, removing stop words, lemmatizing the remaining words, and filtering out non-nouns. Then, I display the lexical diversity, tag the unique lemmas, and print the first 20 tagged items, the length of tokens after preprocessing, and the length of nouns after preprocessing. Secondly, I play a guessing game where I randomly pick a word from a list of the 50 most common nouns in the preprocessed text and ask the user to guess the word by entering one letter at a time. The user gets a score, which is initially 5 and decreases with each incorrect guess, and the game ends when the score becomes negative or the user guesses the word. If the user wins, they can choose to play again, and if they lose, I show the word and offer the option to play again. The program takes an input file as a command-line argument, and if one is not provided, it displays an error message.
+
 Link for Portfolio Assessment 3
 https://github.com/birukmamo/Biruk_Portfolio/blob/main/Portofolio_Chapter7_wordnet.ipynb%20-%20Colaboratory.pdf
 
