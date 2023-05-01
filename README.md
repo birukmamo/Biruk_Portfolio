@@ -32,8 +32,18 @@ Overall, the WordNet project has had a significant impact on the field of natura
 Link for Portfolio Assessment 4
 https://github.com/birukmamo/Biruk_Portfolio/tree/main/BGM210001_N_Gram
 
+N-grams are a fundamental concept in natural language processing (NLP), which involves the use of computational methods to analyze and understand human language. N-grams refer to contiguous sequences of N items, which can be words, letters, or even phonemes (the smallest units of sound in a language). For example, in the sentence "The cat sat on the mat", the 2-grams (also known as bigrams) are "The cat", "cat sat", "sat on", "on the", and "the mat".
+
+N-grams are widely used in NLP to create language models, which are statistical models that estimate the likelihood of a word given a series of preceding words. Language models are important in many NLP applications, such as speech recognition, machine translation, and text generation. N-gram models are simple yet powerful, and can be easily computed from large amounts of text data.
+
+The basic idea behind N-gram language modeling is to use the frequency of N-grams in a training corpus to estimate the probability of the next word in a sequence, given the previous N-1 words. For example, if the 2-gram "The cat" occurs frequently in the training data, then the model will assign a high probability to the word "sat" following "cat" in a test sequence.
+
+Overall, N-grams and language models are key concepts in NLP, and are essential tools for building systems that can process and generate human language.
+
 Link for Portfolio Assessment 5
 https://github.com/birukmamo/Biruk_Portfolio/blob/main/BGM210001_SentenceParsing.pdf
+
+
 
 Link for Portfolio Assessment 6
 https://github.com/birukmamo/Biruk_Portfolio/blob/main/web_crawler_Assignment6.py
